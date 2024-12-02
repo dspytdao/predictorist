@@ -6,7 +6,7 @@
     "@apollo/client": "^3.7.10",
     "@chakra-ui/react": "^2.4.3",
     "@emotion/react": "^11.10.4",
-    "@emotion/styled": "^11.10.4",
+    "@emotion/styled": "^11.11.0",
     "@fontsource/luxurious-script": "^4.5.9",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
